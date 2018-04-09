@@ -2,6 +2,6 @@
 
 Simple Arduino sketch for ISSI's three-channel led driver. Here is the breakout board I am using:
 
-![breakout](https://cdn.tindiemedia.com/images/resize/mWuBoC8-KWZSFkkUFlB139-USBE=/full-fit-in/2400x1600/smart/44691/products/2017-12-24T20%3A48%3A40.412Z-IS31FL3194.top.3.jpg)
+![breakout](https://user-images.githubusercontent.com/6698410/38475085-3213ba8a-3b5a-11e8-9fe8-c52a4948c5ab.jpg)
 
 This is available for purchase on [Tindie](https://www.tindie.com/products/onehorse/is31fl3194-programmable-3-channel-led-driver/).
