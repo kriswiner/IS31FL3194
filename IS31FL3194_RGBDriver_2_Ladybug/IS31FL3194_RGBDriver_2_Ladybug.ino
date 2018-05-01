@@ -57,7 +57,7 @@ void loop()
   
    IS31FL3194.powerUp();
    
-   // set led colr, possible choices are red, green, blue, yello, cyan, magenta
+   // set led colr, possible choices are red, green, blue, yellow, cyan, magenta
    IS31FL3194.ledBlink(red, 10);
    delay(1000);
    IS31FL3194.ledBlink(green, 10);
