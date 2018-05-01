@@ -43,37 +43,37 @@
 
   void IS31FL3194::ledBlink(uint8_t color, uint32_t duration)
   {
-   if(color == red) {
+   if(color == green) {
    _out1 = 0xFF;
    _out2 = 0x00;
    _out3 = 0x00;
    }
 
-   if(color == green) {
+   if(color == blue) {
    _out1 = 0x00;
    _out2 = 0xFF;
    _out3 = 0x00;
   }
 
-   if(color == blue) {
+   if(color == red) {
    _out1 = 0x00;
    _out2 = 0x00;
    _out3 = 0xFF;
    }
 
-   if(color == yellow) {
+   if(color == cyan) {
    _out1 = 0x20;
    _out2 = 0x20;
    _out3 = 0x00;
    }
 
-   if(color == cyan) {
+   if(color == magenta) {
    _out1 = 0x00;
    _out2 = 0x20;
    _out3 = 0x20;
    }
 
-   if(color == magenta) {
+   if(color == yellow) {
    _out1 = 0x20;
    _out2 = 0x00;
    _out3 = 0x20;
